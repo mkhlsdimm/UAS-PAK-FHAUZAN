@@ -1,0 +1,531 @@
+.desktop-6 .brand-name {
+  overflow-wrap: break-word;
+  font-family: var(--h-5-font-family, 'Inter');
+  font-weight: var(--h-5-font-weight, 700);
+  font-size: var(--h-5-font-size, 16px);
+  letter-spacing: var(--h-5-letter-spacing, 0.1px);
+  line-height: var(--h-5-line-height, 1.5);
+  color: #252B42;
+}
+.desktop-6 .logo {
+  margin: 8px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.desktop-6 .button-1 {
+  overflow-wrap: break-word;
+  font-family: var(--btn-text-font-family, 'Inter');
+  font-weight: var(--btn-text-font-weight, 700);
+  font-size: var(--btn-text-font-size, 14px);
+  letter-spacing: var(--btn-text-letter-spacing, 0.2px);
+  line-height: var(--btn-text-line-height, 2);
+  color: #737373;
+}
+.desktop-6 .textlarge-text-button {
+  margin: 6px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.desktop-6 .button-2 {
+  overflow-wrap: break-word;
+  font-family: var(--btn-text-font-family, 'Inter');
+  font-weight: var(--btn-text-font-weight, 700);
+  font-size: var(--btn-text-font-size, 14px);
+  letter-spacing: var(--btn-text-letter-spacing, 0.2px);
+  line-height: var(--btn-text-line-height, 2);
+  color: #737373;
+}
+.desktop-6 .textlarge-text-button-1 {
+  margin: 6px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.desktop-6 .button-3 {
+  overflow-wrap: break-word;
+  font-family: var(--btn-text-font-family, 'Inter');
+  font-weight: var(--btn-text-font-weight, 700);
+  font-size: var(--btn-text-font-size, 14px);
+  letter-spacing: var(--btn-text-letter-spacing, 0.2px);
+  line-height: var(--btn-text-line-height, 2);
+  color: #737373;
+}
+.desktop-6 .textlarge-text-button-2 {
+  margin: 6px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.desktop-6 .button {
+  overflow-wrap: break-word;
+  font-family: var(--btn-text-font-family, 'Inter');
+  font-weight: var(--btn-text-font-weight, 700);
+  font-size: var(--btn-text-font-size, 14px);
+  letter-spacing: var(--btn-text-letter-spacing, 0.2px);
+  line-height: var(--btn-text-line-height, 2);
+  color: #737373;
+}
+.desktop-6 .filledmedium-filled-button {
+  box-shadow: var(--light-drop-shadow-1, 0px 2px 4px 0px rgba(0, 0, 0, 0.1));
+  border-radius: 25px;
+  background: #31A0FE;
+  display: flex;
+  padding: 6px 0.4px 6px 0;
+  width: 101px;
+  box-sizing: border-box;
+}
+.desktop-6 .desktop-top-navbar-1 {
+  margin: 0 11px 209px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1049px;
+  box-sizing: border-box;
+}
+.desktop-6 .im-mmukhlis-adim {
+  margin-bottom: 24px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Epilogue';
+  font-weight: 700;
+  font-size: 65px;
+  letter-spacing: 0.2px;
+  line-height: 1.238;
+  color: #252B42;
+}
+.desktop-6 .hallo-gaiss-mari-kita-mengenal-mmukhlis-adim-lets-gooo-friends {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 900;
+  font-size: 24px;
+  letter-spacing: 0.2px;
+  line-height: 0.833;
+  color: #737373;
+}
+.desktop-6 .epilogue-inter {
+  margin: 21px 11.2px 300px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-6 .ellipse-24 {
+  width: 550px;
+  height: 567px;
+}
+.desktop-6 .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-6 .rectangle-47 {
+  border-radius: 339.1px;
+  background: url('../assets/images/rectangle_471.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  top: 50%;
+  right: 35px;
+  translate: 0 -50%;
+  width: 480px;
+  height: 515px;
+}
+.desktop-6 .container {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.desktop-6 {
+  background: #E1F4FF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 28px 0 112px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-7 .brand-name {
+  overflow-wrap: break-word;
+  font-family: var(--h-5-font-family, 'Inter');
+  font-weight: var(--h-5-font-weight, 700);
+  font-size: var(--h-5-font-size, 16px);
+  letter-spacing: var(--h-5-letter-spacing, 0.1px);
+  line-height: var(--h-5-line-height, 1.5);
+  color: #FFFFFF;
+}
+.desktop-7 .logo {
+  margin: 8px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.desktop-7 .button-1 {
+  overflow-wrap: break-word;
+  font-family: var(--btn-text-font-family, 'Inter');
+  font-weight: var(--btn-text-font-weight, 700);
+  font-size: var(--btn-text-font-size, 14px);
+  letter-spacing: var(--btn-text-letter-spacing, 0.2px);
+  line-height: var(--btn-text-line-height, 2);
+  color: #ECECEC;
+}
+.desktop-7 .textlarge-text-button {
+  margin: 6px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.desktop-7 .button-2 {
+  overflow-wrap: break-word;
+  font-family: var(--btn-text-font-family, 'Inter');
+  font-weight: var(--btn-text-font-weight, 700);
+  font-size: var(--btn-text-font-size, 14px);
+  letter-spacing: var(--btn-text-letter-spacing, 0.2px);
+  line-height: var(--btn-text-line-height, 2);
+  color: #ECECEC;
+}
+.desktop-7 .textlarge-text-button-1 {
+  margin: 6px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.desktop-7 .button-3 {
+  overflow-wrap: break-word;
+  font-family: var(--btn-text-font-family, 'Inter');
+  font-weight: var(--btn-text-font-weight, 700);
+  font-size: var(--btn-text-font-size, 14px);
+  letter-spacing: var(--btn-text-letter-spacing, 0.2px);
+  line-height: var(--btn-text-line-height, 2);
+  color: #ECECEC;
+}
+.desktop-7 .textlarge-text-button-2 {
+  margin: 6px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.desktop-7 .button {
+  overflow-wrap: break-word;
+  font-family: var(--btn-text-font-family, 'Inter');
+  font-weight: var(--btn-text-font-weight, 700);
+  font-size: var(--btn-text-font-size, 14px);
+  letter-spacing: var(--btn-text-letter-spacing, 0.2px);
+  line-height: var(--btn-text-line-height, 2);
+  color: var(--light-text-color, #FFFFFF);
+}
+.desktop-7 .filledmedium-filled-button {
+  box-shadow: var(--light-drop-shadow-1, 0px 2px 4px 0px rgba(0, 0, 0, 0.1));
+  border-radius: 25px;
+  background: #EC5C2E;
+  display: flex;
+  padding: 6px 0.4px 6px 0;
+  width: 100px;
+  box-sizing: border-box;
+}
+.desktop-7 .desktop-top-navbar-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 713px;
+  box-sizing: border-box;
+}
+.desktop-7 .container-2 {
+  margin: 0 16.3px 221.2px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1049px;
+  box-sizing: border-box;
+}
+.desktop-7 .hallo {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Epilogue';
+  font-weight: 700;
+  font-size: 65px;
+  letter-spacing: 0.2px;
+  line-height: 1.238;
+  color: #FFFFFF;
+}
+.desktop-7 .hallo-gais-saya-muhammad-mukhlis-adim-anak-pertama-dari-4-bersaudara-dan-anak-laki-satu-satunya-saya-berusia-18-tahun-saya-lahir-pada-tanggal-1-bulan-oktober-tahun-2005-saat-ini-saya-berkuliah-di-politeknik-pertanian-negeri-samarinda-dan-saya-mengambil-jurusan-teknologi-rekaya-perangkat-lunak-trpl {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 900;
+  font-size: 20px;
+  letter-spacing: 0.2px;
+  line-height: 1.5;
+  color: #ECECEC;
+}
+.desktop-7 .epilogue-inter {
+  margin: 8.8px 164.5px 140px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-7 .ellipse-24 {
+  border-radius: 277.4px;
+  background: #23856D;
+  position: relative;
+  width: 554.8px;
+  height: 554.8px;
+}
+.desktop-7 .container-1 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-7 .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-7 .rectangle-47 {
+  border-radius: 339.1px;
+  background: url('../assets/images/rectangle_47.jpeg') 50% / cover no-repeat;
+  position: relative;
+  top: 260px;
+  right: 290px;
+  width: 550px;
+  height: 554.8px;
+}
+.desktop-7 {
+  background: #394264;
+  display: flex;
+  padding: 28px 0 0 16.3px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+  .contact-form .brand-name {
+    overflow-wrap: break-word;
+    font-family: var(--h-5-font-family, 'Inter');
+    font-weight: var(--h-5-font-weight, 700);
+    font-size: var(--h-5-font-size, 16px);
+    letter-spacing: var(--h-5-letter-spacing, 0.1px);
+    line-height: var(--h-5-line-height, 1.5);
+    color: #252B42;
+  }
+  .contact-form .logo {
+    margin: 8px 0;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .contact-form .button {
+    overflow-wrap: break-word;
+    font-family: var(--btn-text-font-family, 'Inter');
+    font-weight: var(--btn-text-font-weight, 700);
+    font-size: var(--btn-text-font-size, 14px);
+    letter-spacing: var(--btn-text-letter-spacing, 0.2px);
+    line-height: var(--btn-text-line-height, 2);
+    color: #737373;
+  }
+  .contact-form .textlarge-text-button {
+    display: flex;
+    box-sizing: border-box;
+  }
+  .contact-form .button-1 {
+    overflow-wrap: break-word;
+    font-family: var(--btn-text-font-family, 'Inter');
+    font-weight: var(--btn-text-font-weight, 700);
+    font-size: var(--btn-text-font-size, 14px);
+    letter-spacing: var(--btn-text-letter-spacing, 0.2px);
+    line-height: var(--btn-text-line-height, 2);
+    color: #737373;
+  }
+  .contact-form .textlarge-text-button-1 {
+    display: flex;
+    box-sizing: border-box;
+  }
+  .contact-form .button-2 {
+    overflow-wrap: break-word;
+    font-family: var(--btn-text-font-family, 'Inter');
+    font-weight: var(--btn-text-font-weight, 700);
+    font-size: var(--btn-text-font-size, 14px);
+    letter-spacing: var(--btn-text-letter-spacing, 0.2px);
+    line-height: var(--btn-text-line-height, 2);
+    color: #737373;
+  }
+  .contact-form .textlarge-text-button-2 {
+    display: flex;
+    box-sizing: border-box;
+  }
+  .contact-form .desktop-top-navbar-1 {
+    margin: 6px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 275.7px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .contact-form .button-3 {
+    overflow-wrap: break-word;
+    font-family: var(--btn-text-font-family, 'Inter');
+    font-weight: var(--btn-text-font-weight, 700);
+    font-size: var(--btn-text-font-size, 14px);
+    letter-spacing: var(--btn-text-letter-spacing, 0.2px);
+    line-height: var(--btn-text-line-height, 2);
+    color: var(--light-text-color, #FFFFFF);
+  }
+  .contact-form .filledmedium-filled-button {
+    box-shadow: var(--light-drop-shadow-1, 0px 2px 4px 0px rgba(0, 0, 0, 0.1));
+    border-radius: 25px;
+    background: #01FF2A;
+    display: flex;
+    padding: 6px 0.4px 6px 0;
+    width: 101px;
+    box-sizing: border-box;
+  }
+  .contact-form .container {
+    margin: 0 0 176px 7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1055px;
+    box-sizing: border-box;
+  }
+  .contact-form .contact-us {
+    overflow-wrap: break-word;
+    font-family: var(--title-font-family, 'Inter');
+    font-weight: var(--title-font-weight, 700);
+    font-size: var(--title-font-size, 64px);
+    letter-spacing: var(--title-letter-spacing, -1.3px);
+    color: #000000;
+  }
+  .contact-form .headline {
+    margin-bottom: 63px;
+    display: flex;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+  .contact-form .icon-4 {
+    width: 29.2px;
+    height: 29.2px;
+  }
+  .contact-form .icon-3 {
+    margin: 6.9px 8.9px 0 0;
+    display: flex;
+    width: 29.2px;
+    height: 29.2px;
+    box-sizing: border-box;
+  }
+  .contact-form .httpswww-instagram-commkhlsdimmnext-2-f {
+    margin-bottom: 0.1px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--subheading-font-family, 'Inter');
+    font-weight: var(--subheading-font-weight, 400);
+    font-size: var(--subheading-font-size, 24px);
+    line-height: var(--subheading-line-height, 1.5);
+    color: #000000;
+  }
+  .contact-form .container-1 {
+    margin-bottom: 25.9px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-end;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .contact-form .muhammadadim-110-gmail-com {
+    margin-right: 83.2px;
+    align-self: center;
+    overflow-wrap: break-word;
+    font-family: var(--subheading-font-family, 'Inter');
+    font-weight: var(--subheading-font-weight, 400);
+    font-size: var(--subheading-font-size, 24px);
+    line-height: var(--subheading-line-height, 1.5);
+    color: #000000;
+  }
+  .contact-form .container-3 {
+    margin: 0 67.2px 419px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .contact-form .hero-image {
+    border-radius: 8px;
+    background: url('../assets/images/hero_image.jpeg') 50% / cover no-repeat, linear-gradient(#F7F7F7, #F7F7F7);
+    width: 508px;
+    height: 657px;
+  }
+  .contact-form .container-4 {
+    margin: 0 85px 120px 80px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .contact-form .divider {
+    background: #E6E6E6;
+    margin-bottom: 125.1px;
+    width: 1280px;
+    height: 1px;
+  }
+  .contact-form .icon {
+    width: 50px;
+    height: 49.8px;
+  }
+  .contact-form .buttons-icon {
+    border-radius: 4px;
+    margin-right: 18.5px;
+    display: flex;
+    width: 50px;
+    height: 49.8px;
+    box-sizing: border-box;
+  }
+  .contact-form .icon-1 {
+    width: 45px;
+    height: 45px;
+  }
+  .contact-form .buttons-icon-1 {
+    border-radius: 4px;
+    margin: 0.4px 0 4.4px 0;
+    display: flex;
+    width: 45px;
+    height: 45px;
+    box-sizing: border-box;
+  }
+  .contact-form .social-icons {
+    margin-right: 20.5px;
+    display: flex;
+    flex-direction: row;
+    width: 113.5px;
+    box-sizing: border-box;
+  }
+  .contact-form .icon-2 {
+    width: 50px;
+    height: 35px;
+  }
+  .contact-form .buttons-icon-2 {
+    border-radius: 4px;
+    margin: 7.4px 0;
+    display: flex;
+    width: 50px;
+    height: 35px;
+    box-sizing: border-box;
+  }
+  .contact-form .container-2 {
+    margin-left: 28px;
+    display: flex;
+    flex-direction: row;
+    width: 184px;
+    box-sizing: border-box;
+  }
+  .contact-form .navigation-footer {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1px 80px 87.1px 80px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .contact-form {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 28px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+    
